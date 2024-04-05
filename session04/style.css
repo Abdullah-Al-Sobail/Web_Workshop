@@ -1,0 +1,23 @@
+h4{
+    border: 2px solid red;
+
+}
+h5{
+    border: 2px dotted green;
+}
+a{
+    border: 2px solid red;
+}
+.background1{
+    background-color: dodgerblue;
+  
+}
+.background2{
+    background-color: tomato;
+    border: 5px solid dodgerblue;
+    padding: 5px;
+    margin-left: 10px;
+}
+.text{
+    color: #fff;
+}
